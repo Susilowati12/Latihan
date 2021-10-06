@@ -6,7 +6,7 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Dema Puspita's Blog"
+  title       = "Susilowati's Blog"
   subtitle    = "Welcome!"
 
   cover       = "uploads/HEADER.jpg"
@@ -16,18 +16,18 @@ paginate        = 6
   customCSS = []
   RSSLink = ""
 
-  fbName = "demapuspita19"
-  githubName = "demapuspita"
+  
+  githubName = "Susilowati12"
 
   logo = ""
   orgName = "DM"
   orgWebsite = ""
   orgDescription = "Here is a description placeholder for your org"
 
-  author = "demapuspita"
+  author = "Susilowati"
   authorAvatar = "uploads/profile_picture.jpeg"
   authorLocation = "Karawang, ID"
-  authorWebsite = "https://github.com/demapuspita"
+  authorWebsite = "https://github.com/Susilowati12"
   authorDescription = "A Student"
 
   pageNotFoundTitle = "404 - Page not found"
